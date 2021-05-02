@@ -1,2 +1,2 @@
-# react-fetch-api
+# star-ratings-react-app
 Created with CodeSandbox
